@@ -1,0 +1,58 @@
+[
+  {
+    "name": "farkhane",
+    "pin": 9462,
+    "accountID": "ACC2331",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "name": "ilyas",
+    "pin": 1013,
+    "accountID": "ACC8206",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "name": "ahmed",
+    "pin": 2451,
+    "accountID": "ACC2548",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "name": "kamal",
+    "pin": 4525,
+    "accountID": "ACC4776",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "name": "omari",
+    "pin": 9545,
+    "accountID": "ACC2563",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "name": "khalide",
+    "pin": 5885,
+    "accountID": "ACC7079",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "name": "jihane",
+    "pin": 8160,
+    "accountID": "ACC3418",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "name": "moha",
+    "pin": 3178,
+    "accountID": "ACC9984",
+    "balance": 0,
+    "transactions": []
+  }
+]
